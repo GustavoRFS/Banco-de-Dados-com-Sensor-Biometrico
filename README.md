@@ -11,8 +11,8 @@ Utilizando um módulo de Cartão SD, Um módulo de Sensor Biométrico e o monito
 
 * Remover pessoas com o comando "remover_pessoa"
 
-* Listas pessoas:
- ** Em ordem de ID com o comando "listar_pessoas"
+* Listas pessoas
+ * Em ordem de ID com o comando "listar_pessoas"
  * Em ordem "pseudo-alfabética" (Apenas a primeira letra sendo ordenada, preferimos assim por conta da baixa capacidade de processamento do arduino) com o comando "listar_pessoas --alf"
  * Do mais novo para o mais velho com o comando "listar_pessoas --idade"
  * Em ordem do número de matrícula com o comando "listar_pessoas --matricula"
