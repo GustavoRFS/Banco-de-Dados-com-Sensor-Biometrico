@@ -8,6 +8,7 @@ O trabalho exigia o uso de Ponteiros, de ordernação e utilizar arquivos.
 
 Utilizando um módulo de Cartão SD, Um módulo de Sensor Biométrico e o monitor Serial o arduino será capaz de:
 * Adicionar pessoas com o comando "add_pessoa"
+ * Para adicionar uma pessoa, o programa pede para que o dedo seja inserido e depois os dados de Nome, Idade, Matrícula e Número de telefone são informados.
 
 * Remover pessoas com o comando "remover_pessoa"
 
