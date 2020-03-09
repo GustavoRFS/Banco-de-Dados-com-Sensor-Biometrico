@@ -8,7 +8,7 @@ Essa etapa do trabalho exigia o uso de Ponteiros, de ordernação e utilizar arq
 #
 Utilizando um módulo de Cartão SD, Um módulo de Sensor Biométrico _(Modelo FPM10A)_ e o monitor Serial
 
-![Circuito](BancoDeDadosBiometrico/Circuito.png)
+![Circuito](https://raw.githubusercontent.com/GustavoRFS/BancoDeDadosBiometrico/master/Circuito.png)
 #
 
 ###### Através do monitor serial, o arduino será capaz de:
