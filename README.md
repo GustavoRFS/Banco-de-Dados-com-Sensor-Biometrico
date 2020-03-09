@@ -11,7 +11,7 @@ Utilizando um módulo de Cartão SD, Um módulo de Sensor Biométrico _(Modelo F
 ![Circuito](circuito.png)
 #
 
-######Através do monitor serial, o arduino será capaz de:
+###### Através do monitor serial, o arduino será capaz de:
 * Adicionar pessoas com o comando "add_pessoa"
  * Para adicionar uma pessoa, o programa pede para que o dedo seja inserido e depois os dados de Nome, Idade, Matrícula e Número de telefone são informados.
 
