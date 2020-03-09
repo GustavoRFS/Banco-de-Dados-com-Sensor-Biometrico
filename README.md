@@ -7,13 +7,11 @@ Grupo: Caio Rocha, Gustavo Ribeiro, João Paulo de Paiva Lima e Pedro Paulo
 Essa etapa do trabalho exigia o uso de Ponteiros, de ordernação e utilizar arquivos.
 #
 Utilizando um módulo de Cartão SD, Um módulo de Sensor Biométrico _(Modelo FPM10A)_ e o monitor Serial
-#
 
 ![Circuito](circuito.png)
+#
 
-
-
- o arduino será capaz de:
+######Através do monitor serial, o arduino será capaz de:
 * Adicionar pessoas com o comando "add_pessoa"
  * Para adicionar uma pessoa, o programa pede para que o dedo seja inserido e depois os dados de Nome, Idade, Matrícula e Número de telefone são informados.
 
