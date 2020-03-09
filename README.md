@@ -2,7 +2,7 @@
 Segunda etapa do trabalho prático em grupo com arduino da disciplina Introdução aos Algoritmos, no curso de Ciência da Computação na UFLA - Universidade Federal de Lavras.
 Grupo: Caio Rocha, Gustavo Ribeiro, João Paulo de Paiva Lima e Pedro Paulo
 
-*Clique [aqui]() para ver a Primeira Etapa*
+*Clique [aqui](https://github.com/GustavoRFS/Sensor-de-re) para ver a Primeira Etapa*
 
 Essa etapa do trabalho exigia o uso de Ponteiros, de ordernação e utilizar arquivos.
 #
